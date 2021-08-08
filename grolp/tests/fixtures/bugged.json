@@ -1,0 +1,22 @@
+{
+  "valid_seen": [
+    {
+      "task": "pick_two_obj_and_place-SprayBottle-None-Toilet-429/trial_T20190907_033843_707544",
+      "repeat_idx": 0
+    },
+    {
+      "task": "pick_two_obj_and_place-SoapBottle-None-Drawer-415/trial_T20190907_161729_798002",
+      "repeat_idx": 0
+    },
+    {
+      "task": "pick_and_place_with_movable_recep-Ladle-Pan-SinkBasin-4/trial_T20190908_192636_561572",
+      "repeat_idx": 1
+    }
+  ],
+  "valid_unseen": [
+    {
+      "task": "pick_and_place_with_movable_recep-Spoon-Pan-SinkBasin-10/trial_T20190908_092900_630408",
+      "repeat_idx": 0
+    }
+  ]
+}

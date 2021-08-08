@@ -1,0 +1,11 @@
+ai2thor==2.1.0
+allennlp==2.4.0
+cython
+pycocotools==2.0.0
+transformers==4.3.3
+jsonlines
+open3d
+opencv-python
+networkx
+tabulate
+pytorch-lightning==1.4.0

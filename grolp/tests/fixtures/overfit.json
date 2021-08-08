@@ -1,0 +1,28 @@
+{
+  "train": [
+    {
+      "task": "look_at_obj_in_light-Book-None-DeskLamp-328/trial_T20190908_062929_997479",
+      "repeat_idx": 0
+    }
+  ],
+  "valid_seen": [
+    {
+      "task": "pick_and_place_simple-Egg-None-Microwave-4/trial_T20190906_234406_356490",
+      "repeat_idx": 0
+    },
+    {
+      "task": "pick_and_place_simple-Egg-None-Microwave-4/trial_T20190906_234406_356490",
+      "repeat_idx": 1
+    },
+    {
+      "task": "pick_and_place_simple-Egg-None-Microwave-4/trial_T20190906_234406_356490",
+      "repeat_idx": 2
+    }
+  ],
+  "valid_unseen": [
+    {
+      "task": "look_at_obj_in_light-CD-None-DeskLamp-308/trial_T20190908_142046_281296",
+      "repeat_idx": 2
+    }
+  ]
+}
