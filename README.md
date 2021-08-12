@@ -22,13 +22,6 @@ with the following command:
 pip install -r requirements.txt
 ```
 
-We currently use a custom version of PyTorch-Lightning that is bundled in the current codebase. Please install it using
-the following command:
-
-```bash
-pip install -e pytorch-lightning/.
-```
-
 As next step, we will download the ALFRED data using the script `scripts/download_alfred_data.sh` as follows:
 
 ```bash
@@ -175,5 +168,11 @@ directory because they are required by the script to load all the correct model 
 If you're using this codebase please cite our work:
 
 ```bibtex
-TODO: prepare BibTex when the paper is ready
+@article{suglia:embert,
+  title={Embodied {BERT}: A Transformer Model for Embodied, Language-guided Visual Task Completion},
+  author={Alessandro Suglia and Qiaozi Gao and Jesse Thomason and Govind Thattai and Gaurav Sukhatme},
+  journal={arXiv},
+  year={2021},
+  url={https://arxiv.org/abs/2108.04927}
+}
 ```
