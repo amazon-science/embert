@@ -8,4 +8,4 @@ open3d
 opencv-python
 networkx
 tabulate
-pytorch-lightning==1.4.0
+pytorch-lightning==1.6.0
