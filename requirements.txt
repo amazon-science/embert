@@ -2,7 +2,7 @@ ai2thor==2.1.0
 allennlp==2.4.0
 cython
 pycocotools==2.0.0
-transformers==4.3.3
+transformers==4.36.0
 jsonlines
 open3d
 opencv-python
